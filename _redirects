@@ -1,0 +1,3 @@
+# GitHub Pages no soporta _headers, pero sí _redirects.
+# Aquí solo forzamos que cualquier ruta 404 caiga al index (SPA fallback).
+/*    /index.html   200

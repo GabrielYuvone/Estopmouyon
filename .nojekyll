@@ -1,0 +1,2 @@
+# GitHub Pages: desactiva Jekyll para que los archivos con nombre
+# que empiezan con _ (como _headers y _redirects) no sean ignorados.
